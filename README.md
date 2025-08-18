@@ -1,2 +1,37 @@
-# Data-Analytics-Projects
+Data-Analytics-Projects
 Collection of my Data Analytics projects (Power BI, Python, SQL, Excel).
+
+UPI Transaction Insights Dashboard
+
+Objective
+To analyze UPI transaction data and uncover insights on fraud detection, spending behavior, and transaction trends across India.
+
+Key Highlights
+- Total Transactions: 250K  
+- Total Amount: ₹328M  
+- Average Transaction Value: ₹1,312  
+- Fraudulent Transactions: 480 (0.19%)  
+
+Dashboard Features
+- Fraud Analysis:  
+  - Fraud vs Non-Fraud distribution  
+  - Fraud by Device Type & Network Type  
+
+- Transaction Insights:  
+  - Monthly transaction trends  
+  - Merchant category breakdown  
+  - Bank-wise transaction volumes  
+  - State-wise transaction share  
+
+Tech Stack
+- Power BI (Dashboarding & KPIs)  
+- Excel/SQL (Data Cleaning & Preprocessing)  
+
+Key Learnings
+- Created interactive KPIs (Total Transactions, Fraud %, Avg Tx Value)  
+- Applied professional color scheme for financial dashboards  
+- Built slicers for banks, device type, and states to enable drill-down analysis  
+- Improved ability to identify fraud hotspots and transaction behavior patterns  
+
+
+
